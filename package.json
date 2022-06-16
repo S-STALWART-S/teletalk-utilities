@@ -1,16 +1,17 @@
 {
-  "name": "teletalk-utilities",
-  "version": "1.0.0",
-  "description": "This package is made for teletalk apps",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "teletalk",
-    "teletalk-utils",
-    "teletalk-utilities"
-  ],
-  "author": "S-STALWART-S",
-  "license": "ISC"
+	"name": "teletalk-utilities",
+	"private": false,
+	"version": "1.0.0",
+	"description": "This package is made for teletalk apps",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"teletalk",
+		"teletalk-utils",
+		"teletalk-utilities"
+	],
+	"author": "S-STALWART-S",
+	"license": "ISC"
 }
